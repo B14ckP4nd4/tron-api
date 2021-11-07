@@ -42,6 +42,14 @@
         }
     },
 
+    "extra": {
+        "laravel": {
+            "providers": [
+                "BlackPanda\\TronAPI\\VirtualizorServiceProvider"
+            ]
+        }
+    },
+
     "autoload-dev": {
         "psr-4": {
             "BlackPanda\\TronAPI\\Test\\": "tests"
