@@ -16,7 +16,7 @@ declare(strict_types=1);
 
 namespace BlackPanda\TronAPI;
 
-use BlackPanda\EC;
+use Elliptic\EC;
 use BlackPanda\TronAPI\Exception\TRC20Exception;
 use BlackPanda\TronAPI\Support\Base58;
 use BlackPanda\TronAPI\Support\Base58Check;
