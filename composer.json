@@ -45,7 +45,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "BlackPanda\\TronAPI\\VirtualizorServiceProvider"
+                "BlackPanda\\TronAPI\\TronServiceProvider"
             ]
         }
     },
