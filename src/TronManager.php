@@ -1,9 +1,9 @@
 <?php
-namespace IEXBase\TronAPI;
+namespace BlackPanda\TronAPI;
 
 
-use IEXBase\TronAPI\Exception\TronException;
-use IEXBase\TronAPI\Provider\{HttpProvider, HttpProviderInterface};
+use BlackPanda\TronAPI\Exception\TronException;
+use BlackPanda\TronAPI\Provider\{HttpProvider, HttpProviderInterface};
 
 class TronManager
 {

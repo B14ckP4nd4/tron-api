@@ -1,5 +1,5 @@
 <?php
-namespace IEXBase\TronAPI\Support;
+namespace BlackPanda\TronAPI\Support;
 
 use Exception;
 

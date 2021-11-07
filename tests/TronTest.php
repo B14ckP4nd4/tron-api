@@ -1,8 +1,8 @@
 <?php
-namespace IEXBase\TronAPI\Tests;
+namespace BlackPanda\TronAPI\Tests;
 
-use IEXBase\TronAPI\Provider\HttpProvider;
-use IEXBase\TronAPI\Tron;
+use BlackPanda\TronAPI\Provider\HttpProvider;
+use BlackPanda\TronAPI\Tron;
 use PHPUnit\Framework\TestCase;
 
 class TronTest extends TestCase

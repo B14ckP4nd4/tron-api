@@ -14,11 +14,11 @@
 
 declare(strict_types=1);
 
-namespace IEXBase\TronAPI;
+namespace BlackPanda\TronAPI;
 
 use Comely\DataTypes\BcNumber;
-use IEXBase\TronAPI\Exception\TRC20Exception;
-use IEXBase\TronAPI\Exception\TronException;
+use BlackPanda\TronAPI\Exception\TRC20Exception;
+use BlackPanda\TronAPI\Exception\TronException;
 
 /**
  * Class TRC20Contract

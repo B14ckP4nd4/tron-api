@@ -1,13 +1,17 @@
 {
-    "name": "iexbase/tron-api",
+    "name": "blackpanda/tron-api",
     "description": "A PHP API for interacting with Tron (Trx)",
     "license": "MIT",
     "type":   "library",
-    "homepage": "https://github.com/iexbase/tron-api",
+    "homepage": "https://github.com/B14ckP4nd4/laravel-tron",
     "authors": [
         {
             "name": "Shamsudin Serderov",
             "email": "steein.shamsudin@gmail.com"
+        },
+        {
+            "name": "BlackPanda",
+            "email": "46260610+B14ckP4nd4@users.noreply.github.com"
         }
     ],
     "keywords": [
@@ -34,13 +38,13 @@
     },
     "autoload": {
         "psr-4": {
-            "IEXBase\\TronAPI\\": "src"
+            "BlackPanda\\TronAPI\\": "src"
         }
     },
 
     "autoload-dev": {
         "psr-4": {
-            "IEXBase\\TronAPI\\Test\\": "tests"
+            "BlackPanda\\TronAPI\\Test\\": "tests"
         }
     },
 

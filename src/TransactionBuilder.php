@@ -1,7 +1,7 @@
 <?php
-namespace IEXBase\TronAPI;
+namespace BlackPanda\TronAPI;
 
-use IEXBase\TronAPI\Exception\TronException;
+use BlackPanda\TronAPI\Exception\TronException;
 
 // Web3 plugin
 use Web3\Contracts\Ethabi;

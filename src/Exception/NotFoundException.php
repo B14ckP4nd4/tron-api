@@ -1,5 +1,5 @@
 <?php
-namespace IEXBase\TronAPI\Exception;
+namespace BlackPanda\TronAPI\Exception;
 
 use InvalidArgumentException;
 

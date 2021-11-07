@@ -1,8 +1,8 @@
 <?php
-namespace IEXBase\TronAPI\Concerns;
+namespace BlackPanda\TronAPI\Concerns;
 
 
-use IEXBase\TronAPI\Exception\ErrorException;
+use BlackPanda\TronAPI\Exception\ErrorException;
 
 trait ManagesUniversal
 {

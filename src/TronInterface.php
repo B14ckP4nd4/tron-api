@@ -1,8 +1,8 @@
 <?php declare(strict_types=1);
 
-namespace IEXBase\TronAPI;
+namespace BlackPanda\TronAPI;
 
-use IEXBase\TronAPI\Exception\TronException;
+use BlackPanda\TronAPI\Exception\TronException;
 
 interface TronInterface
 {

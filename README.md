@@ -1,4 +1,6 @@
 # TRON API
+forked from [iexbase/tron-api](https://github.com/iexbase/tron-api) and customized for Laravel
+
 A PHP API for interacting with the Tron Protocol
 
 [![Latest Stable Version](https://poser.pugx.org/iexbase/tron-api/version)](https://packagist.org/packages/iexbase/tron-api)

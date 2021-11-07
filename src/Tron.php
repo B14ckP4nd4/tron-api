@@ -14,18 +14,18 @@
 
 declare(strict_types=1);
 
-namespace IEXBase\TronAPI;
+namespace BlackPanda\TronAPI;
 
-use Elliptic\EC;
-use IEXBase\TronAPI\Exception\TRC20Exception;
-use IEXBase\TronAPI\Support\Base58;
-use IEXBase\TronAPI\Support\Base58Check;
-use IEXBase\TronAPI\Support\Crypto;
-use IEXBase\TronAPI\Support\Hash;
-use IEXBase\TronAPI\Support\Keccak;
-use IEXBase\TronAPI\Support\Utils;
-use IEXBase\TronAPI\Provider\HttpProviderInterface;
-use IEXBase\TronAPI\Exception\TronException;
+use BlackPanda\EC;
+use BlackPanda\TronAPI\Exception\TRC20Exception;
+use BlackPanda\TronAPI\Support\Base58;
+use BlackPanda\TronAPI\Support\Base58Check;
+use BlackPanda\TronAPI\Support\Crypto;
+use BlackPanda\TronAPI\Support\Hash;
+use BlackPanda\TronAPI\Support\Keccak;
+use BlackPanda\TronAPI\Support\Utils;
+use BlackPanda\TronAPI\Provider\HttpProviderInterface;
+use BlackPanda\TronAPI\Exception\TronException;
 
 /**
  * A PHP API for interacting with the Tron (TRX)
